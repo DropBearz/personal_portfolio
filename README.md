@@ -2,7 +2,7 @@
 	<img src="./public/profile_no_bg.png" width="200" height="200"/>
 </p>
 
-<h1 align="center">DropBearz.github.io.git</h1>
+<h1 align="center">Personal Portfolio</h1>
 
 <p align="center">
 	<strong>My personal website!</strong>
