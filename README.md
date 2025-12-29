@@ -17,8 +17,8 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 To run the development server:
 
 ```bash
-git clone https://github.com/DropBearz/DropBearz.github.io.git
-cd ./DropBearz.github.io/
+git clone https://github.com/DropBearz/personal_portfolio.git
+cd ./personal_portfolio/
 npm install
 npm run dev
 ```
@@ -29,7 +29,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## 🔭 Website
 
-Visit my personal website at ✨ [DropBearz.github.io](https://DropBearz.github.io) ✨
+Visit my personal website at ✨ [dylangerhard.com](https://dylangerhard.com) ✨
 
 ## 📜 License
 
