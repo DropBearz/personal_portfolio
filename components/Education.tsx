@@ -9,10 +9,10 @@ interface Education {
 
 const educationData: Education[] = [
 	{
-		year: "2019 – 2025",
-		degree: "High School Diploma",
-		institution: "West Shore Jr./Sr. High School",
-		description: "4.36 weighted GPA — AP Computer Science Principles, Cyber Security Club, Robotics."
+		year: "Exp. Graduation Spring 2029",
+		degree: "B.S. in Computer Science, Minor in Cybersecurity",
+		institution: "University of Central Florida",
+		description: "Focused on artificial intelligence, cybersecurity, and cryptology."
 	},
 	{
 		year: "2024 – 2025",
@@ -21,10 +21,10 @@ const educationData: Education[] = [
 		description: "4.00 GPA — Intro to C++ Programming, Intro to Java Programming, System Analysis & Design, C# Programming."
 	},
 	{
-		year: "Exp. Graduation Spring 2029",
-		degree: "B.S. in Computer Science, Minor in Cybersecurity",
-		institution: "University of Central Florida",
-		description: "Focused on artificial intelligence, cybersecurity, and cryptology."
+		year: "2019 – 2025",
+		degree: "High School Diploma",
+		institution: "West Shore Jr./Sr. High School",
+		description: "4.36 weighted GPA — AP Computer Science Principles, Cyber Security Club, Robotics."
 	}
 ];
 

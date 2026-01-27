@@ -27,7 +27,7 @@ export default function ContactSection() {
 		},
 		{
 			logo: contactLogo,
-			title: "vCard",
+			title: "Digital Card",
 			description: "Add to contacts",
 			link: "/dylan_gerhard.vcf",
 			download: true
