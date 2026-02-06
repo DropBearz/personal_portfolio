@@ -9,7 +9,7 @@ import Contact from  "@/components/Contact";
 
 export const metadata: Metadata = {
 	title: "Dylan Gerhard — Software Engineer",
-	description: "Software engineer specializing in artificial intelligence, cyber security, and cryptology."
+	description: "Dylan Gerhard — Software engineer specializing in artificial intelligence, cyber security, and cryptology."
 };
 
 export default function Page() {
