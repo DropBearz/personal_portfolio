@@ -46,6 +46,24 @@ const projects: Project[] = [
 		description: "Get text from screen select!",
 		skills: ["HTML", "JavaScript", "Web Application"],
 		link: "https://github.com/321BadgerCode/screen_capture_ocr"
+	},
+	{
+		title: "Technical Writing Instructions",
+		description: "Wrote technical writing instructions explaining how to do laundry in a UCF residence hall. Showcases my ability to create clear and concise documentation.",
+		skills: ["Documentation"],
+		link: "/technical_writing_instructions"
+	},
+	{
+		title: "Resume, Cover Letter, & Mini Interview",
+		description: "My professional resume showcasing my skills and experience. Highlights my background in software engineering and my passion for creating innovative solutions.",
+		skills: [],
+		link: "/resume"
+	},
+	{
+		title: "Research Proposal",
+		description: "Wrote a research proposal entitled \"Hooked by the Click: Human Behavior, Cognitive Bias, Phishing Susceptibility, and Cybersecurity Awareness Interventions.\" Displays my ability to conduct thorough research and present findings in a clear and concise manner.",
+		skills: ["Research"],
+		link: "/research_proposal"
 	}
 ];
 

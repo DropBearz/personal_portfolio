@@ -1,5 +1,6 @@
 "use client";
 
+import Link from "next/link";
 import { useEffect, useState } from "react";
 
 const navItems = [
@@ -75,9 +76,11 @@ export default function Nav() {
 			<div className="max-w-6xl mx-auto px-6 py-4 flex items-center justify-between">
 				<div className="flex flex-col leading-tight">
 					{/* Name */}
-					<span className="text-2xl sm:text-3xl font-semibold tracking-tight">
-						Dylan Gerhard
-					</span>
+					<Link href="/">
+						<span className="text-2xl sm:text-3xl font-semibold tracking-tight">
+							Dylan Gerhard
+						</span>
+					</Link>
 					<span className="text-xs uppercase tracking-wide text-[rgb(var(--color-muted))]">
 						AI · Cybersecurity · Cryptology
 					</span>
