@@ -39,21 +39,8 @@ export default function Page() {
 					title="Cover Letter"
 				/>
 				</div>
-
 			</div>
 		</section>
-
-		{/* 2. Video Section - Full Width Featured */}
-		<section>
-			<center><h2 className="text-xl font-semibold mb-4 text-gray-800">Interview Recording</h2></center>
-			<div className="aspect-video w-full overflow-hidden rounded-xl border border-gray-200 bg-black shadow-lg">
-				<video controls className="w-full h-full object-contain">
-				<source src="/projects/interview.mkv" type="video/x-matroska" />
-				Your browser does not support the video tag.
-				</video>
-			</div>
-		</section>
-
 	</div>
 	);
 }
